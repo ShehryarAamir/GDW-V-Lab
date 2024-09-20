@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+			]
+		}
+	]
+}

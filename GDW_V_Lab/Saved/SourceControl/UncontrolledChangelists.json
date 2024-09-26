@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/BP_Turret.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/Turret/BP_Turret.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/Turret/Bullet/BP_Bullet.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/Turret/Turret/BP_Turret.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0L/MYOFYS1U7ILARTPM98JFO1.uasset",
+				"C:/Users/Shehryar/OneDrive/Desktop/GDW V Lab/GDW-V-Lab/GDW_V_Lab/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/P4/MZL4198DUHIL24AYPU5PJJ.uasset"
 			]
 		}
 	]
